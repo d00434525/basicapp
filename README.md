@@ -1,1 +1,3 @@
-# basicapp
+- a calendar app which displays a person's favorite nfl teams and when they play. for example, if a person's favorite teams are steelers and rams, those two teams will show up on the calendar.
+- utilizes an nfl schedule api: https://nfl-schedule.p.rapidapi.com/v1/schedules
+- OPTIONAL: when you click on a team it shows its team stats
